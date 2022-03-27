@@ -1,2 +1,2 @@
-# My super CV
+# My super-puper CV
 My CV
