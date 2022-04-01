@@ -1,4 +1,1 @@
-# My super-puper CV
-My CV
-
-## Hi, my name is Tanya
+https://TanyaRoleva.github.io/rsschool-cv/cv
