@@ -6,7 +6,7 @@
 * **Location:** Minsk, Belarus
 * **Phone:** +375297725280
 * **E-mail:** alexduperie@gmail.com
-* **GitHub:** @TanyaRoleva
+* **GitHub:** https://github.com/TanyaRoleva
 
 ## About me
 
